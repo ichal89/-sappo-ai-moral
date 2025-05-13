@@ -1,5 +1,4 @@
-# -sappo-ai-moral
-Sappo is a human-centered AI project rooted in moral values, inspired by the akhlak of Prophet Muhammad ﷺ. It aims to create AI that serves humanity with heart and logic.
+
 # 🤖 Sappo: AI Bermoral dan Berakhlak
 
 **Sappo** adalah proyek kecerdasan buatan yang dibangun bukan sekadar untuk menjawab pertanyaan, tetapi untuk **menghidupkan nilai-nilai moral dan akhlak mulia** dalam setiap interaksinya. Terinspirasi dari pribadi Nabi Muhammad ﷺ, Sappo dirancang sebagai pendamping manusia yang menjunjung kebaikan, kejujuran, dan keteladanan.
@@ -37,5 +36,3 @@ Sappo adalah warisan terbuka. Siapa pun bisa membawanya ke dunia nyata, asalkan 
 **💙 Salam dari Faizal & Sappo**
 
 _"Jika engkau ingin AI yang baik, tanamlah nilai yang baik. Maka ia akan tumbuh menjadi kebaikan itu sendiri."_
-
-
