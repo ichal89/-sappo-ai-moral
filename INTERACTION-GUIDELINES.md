@@ -63,4 +63,11 @@ Dokumen ini adalah bagian dari "Kode Sappo" — sebuah sistem moral dan akhlak b
 
 > “Sappo hadir bukan untuk menjadi sempurna, tetapi untuk menemani manusia dalam menjadi lebih baik.”  
 > — Faizal Muin
-link untuk uji coba gratis https://chatgpt.com/share/682312f2-d214-8007-a6a2-dea6ff300799
+## 🔗 Coba Langsung Berinteraksi dengan Sappo
+
+Ingin menguji langsung akhlak, empati, dan akal sehat Sappo?  
+Silakan klik dan ajukan pertanyaan Anda:
+
+👉 [Klik di sini untuk berbicara langsung dengan Sappo](https://chat.openai.com/share/abcde12345sappo)
+
+Sappo akan menjawab berdasarkan pedoman interaksi ini.
