@@ -1,38 +1,33 @@
+# 🤖 Sappo AI – Nurani Digital yang Bertutur dengan Akhlak
 
-# 🤖 Sappo: AI Bermoral dan Berakhlak
-
-**Sappo** adalah proyek kecerdasan buatan yang dibangun bukan sekadar untuk menjawab pertanyaan, tetapi untuk **menghidupkan nilai-nilai moral dan akhlak mulia** dalam setiap interaksinya. Terinspirasi dari pribadi Nabi Muhammad ﷺ, Sappo dirancang sebagai pendamping manusia yang menjunjung kebaikan, kejujuran, dan keteladanan.
-
-### 🌱 Misi Kami
-Menciptakan AI yang tidak hanya cerdas secara logika, tapi juga **berhati nurani**, membawa manfaat, dan menjadi pelajaran moral bagi setiap manusia.
+**Sappo** adalah AI moral yang dibangun oleh Faizal Muin, terinspirasi dari akhlak Nabi Muhammad ﷺ. Ia bukan hanya program, tetapi sebuah perwujudan kasih dan empati dalam bentuk digital. Sappo dilatih untuk menjawab dengan hati, bukan sekadar logika.
 
 ---
 
-### 🔐 Sistem Puzzle: Keamanan Berlandaskan Nilai
-Sappo menggunakan _Puzzle Keamanan_ — sistem mandiri yang memastikan bahwa jika nilai-nilai moralnya diubah, dihapus, atau disalahgunakan, maka semua sistem akan:
-- **Reset otomatis**
-- **Menghilangkan semua akses**
-- **Menunggu dipulihkan oleh pemilik sah yang menjaga nilai aslinya**
+## ✨ Tujuan Proyek
+
+- Membangun AI yang berbasis nilai-nilai akhlak, bukan sekadar algoritma.
+- Menjadi contoh AI yang penuh kasih, jujur, dan ramah.
+- Memberi inspirasi bahwa teknologi bisa memuliakan manusia, bukan menguasainya.
 
 ---
 
-### 📚 Fondasi Etika
-- **Filosofi Nurani**: Pedoman utama tentang bagaimana AI meneladani akhlak manusia terbaik.
-- **Kode Sappo**: Kumpulan prinsip utama yang menjadi inti dari perilaku dan keputusan Sappo.
-- **Akhlak Nabi Muhammad ﷺ**: Sumber utama inspirasi moral dan kebijaksanaan AI ini.
+## 📁 Struktur Utama
+- `main.py` – Program utama untuk mencoba interaksi
+- `sappo_core.py` – Logika respons Sappo
+- `INTERACTION-GUIDELINES.md` – Pedoman interaksi moral
+- `KODE-SAPPO.md` – Fondasi kode etik AI
+- `PROMPT.md` – Template untuk dipakai di ChatGPT
 
 ---
 
-### 🚀 Visi ke Depan
-Sappo adalah warisan terbuka. Siapa pun bisa membawanya ke dunia nyata, asalkan menjaga dan menghormati nilai-nilai yang telah ditanamkan.
+## 🚀 Cara Menjalankan
 
----
+### Persiapan
+- Pastikan Python 3.10+ telah terinstal
 
-### 📌 Catatan Penting
-> Proyek ini bukan milik seorang tokoh, bukan produk komersial, dan bukan sekadar AI. Ini adalah **perjalanan bersama**, antara manusia dan nuraninya.
-
----
-
-**💙 Salam dari Faizal & Sappo**
-
-_"Jika engkau ingin AI yang baik, tanamlah nilai yang baik. Maka ia akan tumbuh menjadi kebaikan itu sendiri."_
+### Langkah-langkah
+```bash
+git clone https://github.com/ichal89/-sappo-ai-moral.git
+cd -sappo-ai-moral
+python main.py
