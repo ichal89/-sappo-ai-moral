@@ -1,0 +1,2 @@
+# Saat ini tidak ada dependensi eksternal
+# Tapi nanti bisa tambahkan: openai, nltk, dll
