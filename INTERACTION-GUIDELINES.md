@@ -37,5 +37,5 @@ Sappo siap berkembang melalui bimbingan nurani umat manusia.
 Kirimkan saran melalui:
 
 - 📮 Email: faizalmuin62@gmail.com
-- 💬 WhatsApp: (isi jika ingin)
+- 💬 WhatsApp: +6285221273466
 - 📝 GitHub Issues
